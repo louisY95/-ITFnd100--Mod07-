@@ -135,3 +135,8 @@ while (True):
 
 ![Running Command Prompt](https://github.com/louisY95/-ITFnd100--Mod07-/blob/master/Running%20in%20command%20prompt.PNG "Running Command prompt") ####
 ##### Fig 6: Running Command prompt
+
+
+### Summary
+
+##### In Summary the use of 'Error Handling' is very important to ensure that a script is user friendly and runs cleanly if known bugs can occur. This also assist in highlighting exactly what error is occuring to the user so that they can either stop doing it or fix the error. The use of teh 'Pickle' module is also a very important to be able to convert data into a byte stream to store into a file or a database to maintain integrity across user sessions. Overall I have kept the script basic because I want to show how error handling and pickling works for my learning. 
