@@ -123,11 +123,12 @@ while (True):
             print('Please Enter Choice 1,2,3, or 4!')
 
     except EOFError and ValueError:
-        print("end of list")
+        print("error detected")
 
 ```
 ##### Fig 4: Script using Pickle module and Error Handling 
 
+##### As seen in Fig 4 and Fig 5 The script is basic but details how the pickle module works and the data is serialized and then deserialized in when using Command Prompt in Fig 6. Also the error handling of 'EOFError' is used and 'ValueError' which will print "error detected". 
 
 ![Running Command Prompt](https://github.com/louisY95/-ITFnd100--Mod07-/blob/master/Running%20in%20command%20prompt.PNG "Running Command prompt") ####
 ##### Fig 6: Running Command prompt
