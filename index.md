@@ -19,5 +19,9 @@ except ZeroDivisionError:
     print(" cannot divide by zero ")
 ```    
 ##### Fig 1: Structured error handling for division by zero
+
+![Results of Listing 13](Figure13.png "Results of Listing 13")####
+Figure 13. The results of Listing 13
+
 ### Subtopic
 ## Summary
