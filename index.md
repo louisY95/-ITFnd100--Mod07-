@@ -20,8 +20,8 @@ except ZeroDivisionError:
 ```    
 ##### Fig 1: Structured error handling for division by zero
 
-![Results of Listing 13](Figure13.png "Results of Listing 13")####
-Figure 13. The results of Listing 13
+![Structured error handling for division by zero](https://github.com/louisY95/-ITFnd100--Mod07-/blob/master/DivisionBy%20Zero.PNG "Structured error handling for division by zero")####
+Figure 2: Structured error handling for division by zero
 
 ### Subtopic
 ## Summary
