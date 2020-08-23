@@ -31,3 +31,4 @@ except ZeroDivisionError:
 
 
 ![Running Command Prompt](https://github.com/louisY95/-ITFnd100--Mod07-/blob/master/Running%20in%20command%20prompt.PNG "Running Command prompt") ####
+##### Fig 6: Running Command prompt
