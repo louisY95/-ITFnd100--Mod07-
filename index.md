@@ -4,6 +4,7 @@
 # Title 
 ## Structured error handling (try - except)
 ## Introduction
+##### In this assignment we learnt how to use 'error handling' and 'Pickle' for Python.
 
 
 ## Topic 1
